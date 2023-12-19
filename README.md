@@ -3,6 +3,7 @@ DIGITAL DEVOTEE
 AIM:
 
 The main objective of the project “DIGITAL DEVOTEE” is to is to bridge the gap between traditional temple practices and modern-day advancements in technology. The platform aims to provide efficient and effective solutions for managing temple operations, ensuring a hassle-free experience for devotees while upholding the sanctity and significance of religious rituals and customs. Through the integration of diverse modules, Digital Devotee seeks to enrich the spiritual journey of individuals and contribute to the overall preservation and growth of religious institutions.
+
 DESCRIPTION:
  
 The Project consists of five (5) Modules:
@@ -20,14 +21,15 @@ UPDATE OVER EXISTING SYSTEM:
 •	As technology continues to evolve, Digital Devotee will stay dedicated to embracing emerging trends, ensuring a seamless integration of tradition and modernity for generations to come.
 •	It is developed as a user-friendly application.
 
-
 HARDWARE REQUIREMENTS :
+
 •	PROCESSOR : Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
 •	RAM : 4.00 GB
 •	HARD DISK : 1TB
 •	SYSTEM TYPE : x64-based PC
 
 SOFTWARE REQUIREMENTS :
+
 •	OPERATING SYSTEM : MICROSOFT WINDOWS 11
 •	FRONT END : NETBEANS IDE IDE 8.0.2 
 •	BACK END : MYSQL SERVER
