@@ -15,21 +15,21 @@ The Project consists of five (5) Modules:
 
 UPDATE OVER EXISTING SYSTEM:
 
-•	The platform has undergone a major revamp in terms of user interface design to ensure a seamless and intuitive experience for both administrators and devotees.The navigation and user-friendly interactions have been incorporated to minimize the learning curve for new users, fostering increased engagement and adoption.
-•	Recognizing the importance of data security and privacy, Digital Devotee has implemented robust encryption protocols and compliance measures to safeguard user information and financial transactions.
-•	The platform has introduced paperless ticketing for seva services and events, minimizing paper wastage. Additionally, the platform encourages digital receipts for donations, further contributing to eco-friendly practices.
-•	As technology continues to evolve, Digital Devotee will stay dedicated to embracing emerging trends, ensuring a seamless integration of tradition and modernity for generations to come.
-•	It is developed as a user-friendly application.
+•	The platform has undergone a major revamp in terms of user interface design to ensure a seamless and intuitive experience for both administrators and devotees.The navigation and user-friendly interactions have been incorporated to minimize the learning curve for new users, fostering increased engagement and adoption.<BR>
+•	Recognizing the importance of data security and privacy, Digital Devotee has implemented robust encryption protocols and compliance measures to safeguard user information and financial transactions.<BR>
+•	The platform has introduced paperless ticketing for seva services and events, minimizing paper wastage. Additionally, the platform encourages digital receipts for donations, further contributing to eco-friendly practices.<BR>
+•	As technology continues to evolve, Digital Devotee will stay dedicated to embracing emerging trends, ensuring a seamless integration of tradition and modernity for generations to come.<BR>
+•	It is developed as a user-friendly application.<BR>
 
 HARDWARE REQUIREMENTS :
 
-•	PROCESSOR : Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
-•	RAM : 4.00 GB
-•	HARD DISK : 1TB
-•	SYSTEM TYPE : x64-based PC
+•	PROCESSOR : Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz<BR>
+•	RAM : 4.00 GB<BR>
+•	HARD DISK : 1TB<BR>
+•	SYSTEM TYPE : x64-based PC<BR>
 
 SOFTWARE REQUIREMENTS :
 
-•	OPERATING SYSTEM : MICROSOFT WINDOWS 11
-•	FRONT END : NETBEANS IDE IDE 8.0.2 
+•	OPERATING SYSTEM : MICROSOFT WINDOWS 11<BR>
+•	FRONT END : NETBEANS IDE IDE 8.0.2 <BR>
 •	BACK END : MYSQL SERVER
